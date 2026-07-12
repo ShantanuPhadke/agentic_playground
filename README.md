@@ -2,8 +2,7 @@
 A collection of useful patterns of agentic AI.
 
 ## Contents (evolving)
-- `patterns/`: Useful patterns for agentic AI
-	- `patterns/examples`: Relevant examples for each of the patterns
+Coming soon
 
 ## How to use
 - Add an .env file with your OPENAI_API_KEY
