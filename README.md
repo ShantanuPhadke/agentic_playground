@@ -1,5 +1,5 @@
 # agentic-playground
-A collection of useful patterns of agentic AI.
+Agentic Playground — An Experimental Lab for Building, Breaking, and Improving Autonomous AI Systems.
 
 ## Contents (evolving)
 Coming soon
